@@ -1,0 +1,72 @@
+body
+{
+   background-position: center;
+   background-size: cover;
+   font-family: 'Licorice', cursive;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float : right;
+    border: 1px solid white;
+}
+
+#start, #status
+{
+    font-size: 22px;
+}
+
+h4
+{
+    background-color: white;
+    line-height: 2;
+    margin:0px;
+}
+
+.modal-dialog
+{
+    width:70%;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
+
+.copy-right-footer
+{
+    line-height: 3;
+    background-color: blueviolet;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+canvas
+{
+    box-shadow: 5px 5px 18px rgb(197, 196, 196);
+    border-radius: 10px;
+}
+
+#restart
+{
+    font-size: 22px;
+    margin-bottom: 50px;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+
